@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f626bff541dc4466fbe95656afa11646
+timeCreated: 1528832572
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HKU
+  fontNames:
+  - HKU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e3a22c2de9b145c98a2c8d6db8af773, type: 3}
+  - {fileID: 12800000, guid: 3c3ea8566256c4bf4a7017f64b9e9425, type: 3}
+  - {fileID: 12800000, guid: 1dc7f84995d6c4fb0a1d702d3a0693f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

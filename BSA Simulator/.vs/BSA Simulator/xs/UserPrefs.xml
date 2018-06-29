@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1D8ADE69-B851-24B3-9043-3AD285DAF081}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/QuitGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TimerManager.cs" Line="21" Column="25" />
+      <File FileName="Assets/Scripts/ETCScript.cs" Line="12" Column="17" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/QuitGame.cs" Line="17" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BSA_220Simulator PreferredExecutionTarget="Unity.Editor" />
+</Properties>
